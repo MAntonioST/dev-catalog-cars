@@ -32,6 +32,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@my_linkedin](https://www.linkedin.com/in/marco-antonio-teixeira-5890084a/) - m.antonyteixeira@gmail.com
 
 Project Link: [https://app.netlify.com/teams/marcoantonioteixeira](https://dev-catalog-cars.netlify.app/)
