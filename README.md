@@ -29,6 +29,9 @@
 
 DevSuperior project, for the development of a Car Catalog, for studies and practice of html and css and responsive adjustments.
 
+## Layout
+
+
 ### Built With
 
 * HTML
