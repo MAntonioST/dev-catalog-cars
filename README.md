@@ -2,14 +2,15 @@
 
 <p align="center">
  
-  <h1 style= display:none lign="center">DEV-CATALOG-CARS</h3>
+  <h1 style= display:none lign="center">Dev Catalog-Cars</h3>
  
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-DevSuperior project, for the development of a Car Catalog, for studies and practice of html and css and responsive adjustments.
+<p align="justify"> 
+Dev Catalog-Cars, was developed with the objective of studies of css, html and responsive adjustments, organized by DevSuperior.
+  https://devsuperior.com.</p>
 
 ## Layout web
 ![Web 1](https://github.com/MAntonioST/dev-catalog-cars/blob/main/assets/img1.png)
