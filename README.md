@@ -13,10 +13,10 @@
     <li>
       <a href="#about-the-project">About</a>
      <ul>
+        <li><a href="#Layout">Layout</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li><a href="#Layout">Layout</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     
