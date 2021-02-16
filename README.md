@@ -29,7 +29,12 @@
 
 DevSuperior project, for the development of a Car Catalog, for studies and practice of html and css and responsive adjustments.
 
-## Layout
+## Layout web
+![Web 1](https://github.com/MarcoAntonioTeixeira/assets/blob/main/sd2/web1.png)
+
+![Web 2](https://github.com/MarcoAntonioTeixeira/assets/blob/main/sd2/web2.png)
+
+![Web 3](https://github.com/MarcoAntonioTeixeira/assets/blob/main/sd2/web3.png)
 
 
 ### Built With
