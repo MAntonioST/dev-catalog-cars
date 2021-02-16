@@ -8,13 +8,18 @@
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
+  <br/>
   <ol>
     <li>
       <a href="#about-the-project">About</a>
+     <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
     </li>
+    <li><a href="#Layout">Layout</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#Layout">Layout</a></li>
+    
    
   </ol>
 </details>
@@ -25,8 +30,6 @@
 DevSuperior project, for the development of a Car Catalog, for studies and practice of html and css and responsive adjustments.
 
 ### Built With
-
-Technology:
 
 * HTML
 * CSS
