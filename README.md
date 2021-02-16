@@ -2,7 +2,7 @@
 
 <p align="center">
  
-  <h1 align="center">Car Catalog Project</h3>
+  <h1 style= display:none lign="center">Car Catalog Project</h3>
  
 
 <!-- TABLE OF CONTENTS -->
@@ -49,13 +49,13 @@ DevSuperior project, for the development of a Car Catalog, for studies and pract
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/MarcoAntonioTeixeira/dev-catalog-cars/blob/main/LICENSE) 
 
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@my_linkedin](https://www.linkedin.com/in/marco-antonio-teixeira-5890084a/) - m.antonyteixeira@gmail.com
+Your Name - [@linkedin](https://www.linkedin.com/in/marco-antonio-teixeira-5890084a/) - m.antonyteixeira@gmail.com
 
 Project Link: [https://app.netlify.com/teams/marcoantonioteixeira](https://dev-catalog-cars.netlify.app/)
