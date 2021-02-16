@@ -2,7 +2,7 @@
 
 <p align="center">
  
-  <h1 style= display:none lign="center">Car Catalog Project</h3>
+  <h1 style= display:none lign="center">DEV-CATALOG-CARS</h3>
  
 
 
