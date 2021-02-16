@@ -20,3 +20,18 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+
+
+<!-- CONTACT -->
+## Contact
+
+Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+
+Project Link: [https://app.netlify.com/teams/marcoantonioteixeira](https://dev-catalog-cars.netlify.app/)
